@@ -1,6 +1,6 @@
 # Flutter: Working with file system
 
-1. Create a file in phone applciation documents directory and store and read data from that file
+1. Create a file in phone application documents directory and store and read data from that file
 2. Read data from a file, which is mentioned in project folders
 
 Let's get started:
@@ -9,7 +9,7 @@ Note: For better understanding of variables and all, please check DBHelper.dart 
 
 Storing data in application documents directory: 
     
-1. Create a file in applciation docs directoy
+1. Create a file in application docs directory
     
         static String fileName = 'bingo.json';
         
