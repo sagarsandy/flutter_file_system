@@ -5,6 +5,8 @@
 
 Let's get started:
 
+Note: For better understanding of variables and all, please check DBHelper.dart file
+
 Storing data in application documents directory: 
     
 1. Create a file in applciation docs directoy
